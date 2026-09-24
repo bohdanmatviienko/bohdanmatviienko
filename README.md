@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Bohdan
 
-<!--
-**bohdanmatviienko/bohdanmatviienko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm a second year BSc Computer Science student at the University of Nottingham.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### Stock Management System
+**C# | .NET | SQL**
+A desktop application used to manage store product and stock records.
+### Reversi Game
+**Java | Swing**
+A fully playable Reversi board game with a graphical user interface.
+### World Cup Prediction Model
+**Python | Pandas | Scikit-learn | Jupyter Notebook**
+A university machine learning project analysing historical World Cup data and building predictive models.
+### Vehicles and Drivers Search Web Application
+**HTML | CSS | JavaScript | PostgreSQL**
+A multi-page web application for searching and managing vehicle and driver records.
