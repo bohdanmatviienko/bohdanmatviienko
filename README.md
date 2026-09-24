@@ -1,4 +1,4 @@
-## Hi, I'm Bohdan
+# Hi, I'm Bohdan.
 
 # I'm a second year BSc Computer Science student at the University of Nottingham.
 
